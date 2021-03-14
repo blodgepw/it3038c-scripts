@@ -34,6 +34,10 @@ Run this program using python3.
 
 **Type python --version** to ensure which version you have on Windows.
 
+Next, install "scipy"
+
+*Type "pip install scipy" in the command line*
+
 Go to the ProjectOne folder and run the program using:
 *python project2.py*
 
